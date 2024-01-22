@@ -3,7 +3,6 @@
 ---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -15,4 +14,4 @@ I am a student at Universidad del Azuay where I had the opportunity to learn abo
 
 <details>
  <summary><h4>My Coding Journey</h4></summary>
- I've always been deeply passionate about technology since I was a kid, I started on my first year of college in 2022 when I got into CS at Universidad del Azuay, that's where I made my first program, a hello world program on C++, the next semesters my college started teaching us Java, that's when I started to deep dive into programming and how can I create tools that actually help me on a daily basis, after that on college course a teacher started talking about Python, I heard about it but never stuck with it, after that I started to built projects I truly believed and really enjoyed. After that I heard about Rust, its community and a lot of good stuff so I decided to learn more about it. I decided to give it a try and that is the present I am currently studying and making some small projects so I can improve with it while on my college I learned about SQL and specifically about MySQL and other technologies that are opening new perspectives for me about software developing and how I can improve with this.
+ I've always been deeply passionate about technology since I was a kid, I started on my first year of college in 2022 when I got into CS at Universidad del Azuay, that's where I made my first program, a hello world program on C++, the next semesters my college started teaching us Java, that's when I started to deep dive into programming and how can I create tools that actually help me on a daily basis, after that on college course a teacher started talking about Python, I heard about it but never stuck with it, after that I started to built projects I truly believed and really enjoyed.

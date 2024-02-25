@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-I am a student at Universidad del Azuay where I had the opportunity to learn about all the tech world, how to solve problems and how to build a good product so I can help people with their needs or sometimes my own needs, whether it's creating a program or a specific tool.
+I am a student at Universidad del Azuay where I have the opportunity to learn about all the tech world, how to solve problems and how to build a good product so I can help people with their needs or sometimes my own needs.
 
 ---
 
